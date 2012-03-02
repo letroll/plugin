@@ -1,4 +1,4 @@
-package letroll.plugin;
+package fr.letroll.mesmangas.plugin;
 
 interface ISite {
 	int getPid();

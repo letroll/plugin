@@ -1,12 +1,10 @@
-package letroll.plugin;
+package fr.letroll.mesmangas.plugin;
 
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
-import letroll.plugin.ISite;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

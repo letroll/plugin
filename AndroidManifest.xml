@@ -6,7 +6,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <application android:label="@string/app_name" >
         <service
-            android:name="letroll.plugin.PluginLetroll"
+            android:name="fr.letroll.mesmangas.plugin.PluginLetroll"
             android:exported="true" >
             <intent-filter>
                 <action android:name="letroll.intent.action.PICK_PLUGIN" />
